@@ -1,0 +1,25 @@
+{
+  "name": "zipper",
+  "version": "0.0.1",
+  "description": "a Javascript Implementation for zip data compression / extraction",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aymen-mouelhi/zipper.git"
+  },
+  "keywords": [
+    "zip",
+    "rar",
+    "extraction",
+    "compression"
+  ],
+  "author": "Aymen Mouelhi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aymen-mouelhi/zipper/issues"
+  },
+  "homepage": "https://github.com/aymen-mouelhi/zipper"
+}
